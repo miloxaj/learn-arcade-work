@@ -1,1 +1,3 @@
-Hi
+import arcade
+
+print(arcade.RELEASE)
